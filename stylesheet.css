@@ -1,0 +1,71 @@
+*.body{
+  width: 100%;
+  height: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  font-family: 'Unlock', cursive;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+#one {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Unlock', cursive;
+}
+
+h2 {
+  font-family: 'Righteous', cursive;
+}
+
+p {
+  font-family: 'Righteous', cursive;
+}
+
+h3 {
+  font-family: 'Righteous', cursive;
+}
+
+#two {
+  column-count: 3;
+  text-align: center;
+}
+
+.background {
+  background-color:#F00021;
+  color: white;
+}
+
+#comic {
+  border: solid 5px;
+  border-color: #0D5DFF;
+  border-radius:50%;
+}
+
+#textbox{
+  width: 180px;
+  height: 100px;
+}
